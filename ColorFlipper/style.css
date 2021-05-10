@@ -1,0 +1,33 @@
+body {
+    background-color: #C3839A;
+}
+
+.container {
+    text-align: center;
+    padding-top: 320px;
+}
+
+.container h1 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background: black;
+    padding: 30px;
+    border-radius: 20px;
+}
+   
+
+.btn-main {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    border: solid;
+    border-width: medium;
+    border-radius: 7px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: transparent;
+    outline: none;
+   
+    
+}
